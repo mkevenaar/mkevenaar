@@ -1,6 +1,15 @@
-### Hi there :wave:
+## Hi there :wave:
 
 - :running: I'm Maurice / @mkevenaar
 - :speaking_head: How to reach me: [Twitter](https://twitter.com/mkevenaar), [LinkedIn](https://www.linkedin.com/in/mauricekevenaar/), [Website](https://kevenaar.name)
 
-[![](https://github-readme-stats.vercel.app/api?username=mkevenaar&show_icons=true&hide_title=true&theme=nightowl)](https://github.com/mkevenaar)
+## Statistics
+<!-- Thanks to https://github.com/anuraghazra/github-readme-stats -->
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=mkevenaar&show_icons=true&theme=nightowl)](https://github.com/mkevenaar)
+
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mkevenaar&theme=nightowl)](https://github.com/mkevenaar)
+
+## Popular Repositories
+<!-- Thanks to https://github.com/anuraghazra/github-readme-stats -->
+
+[![Chocolatey Repo](https://github-readme-stats.vercel.app/api/pin/?username=mkevenaar&repo=chocolatey-packages&theme=dark)](https://github.com/mkevenaar/chocolatey-packages) [![Veeam Boxstarter](https://github-readme-stats.vercel.app/api/pin/?username=mkevenaar&repo=veeam-boxstarter&theme=merko)](https://github.com/mkevenaar/veeam-boxstarter)
