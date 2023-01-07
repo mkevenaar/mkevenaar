@@ -8,6 +8,8 @@ I'm Maurice aka mkevenaar and I am a System Engineer, Veeam Vanguard (since 2020
 
 [![Twitter](https://img.shields.io/twitter/follow/mkevenaar.svg?style=for-the-badge&color=1DA1F2&logo=twitter)](https://twitter.com/mkevenaar)
 
+[![Mastodon](https://img.shields.io/mastodon/follow/109337207608544304?domain=https%3A%2F%2Fmasto.nu&logo=mastodon&style=for-the-badge)](https://masto.nu/@mkevenaar)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mauricekevenaar-0e76a8.svg?style=for-the-badge&color=1DA1F2&logo=linkedin)](https://www.linkedin.com/in/mauricekevenaar/)
 
 [![My Website](https://img.shields.io/badge/blog-kevenaar.name-0e76a8.svg?style=for-the-badge&color=273039&logo=wordpress)](https://kevenaar.name)
